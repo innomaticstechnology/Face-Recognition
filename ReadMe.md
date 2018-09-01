@@ -1,4 +1,5 @@
 # FACE RECOGNITION MEETUP ON  1-SEPT-2018
 > The power of data Science
 
-[![innomatics_1.png](https://s22.postimg.cc/vh6rctfn5/innomatics_1.png)](https://www.innomatics.in/)
+
+[![flyer.jpg](https://s15.postimg.cc/6oef5yl4r/flyer.jpg)](https://postimg.cc/image/nc5x8gfw7/)(https://www.innomatics.in/)
